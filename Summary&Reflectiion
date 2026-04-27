@@ -1,0 +1,15 @@
+Yadelny Deleon
+CS 320 Module 8 Reflection and Summary
+Summary
+In this project, I focused on software testing, automation, and quality assurance, with a strong emphasis on making sure everything actually works the way it’s supposed to. I created unit tests to validate functionality and catch issues early instead of waiting until the end. This helped me better understand how testing plays a major role in building reliable software. Overall, this project strengthened my ability to think critically about how code performs, not just how it’s written.
+ 
+Reflection
+How can I ensure that my code, program, or software is functional and secure?
+I make sure my code is functional and secure by testing consistently and being intentional about how I handle data. Writing unit tests helps me catch issues early and confirm that each part of the program is working correctly. I also focus on input validation and edge cases so the system can handle unexpected situations without breaking. For me, it’s about being proactive instead of reactive when it comes to errors.
+ 
+How do I interpret user needs and incorporate them into a program?
+I start by breaking down the requirements and really understanding what the user is expecting from the system. From there, I translate those needs into smaller, manageable pieces that I can build and test. I try to stay aligned with the original requirements throughout the process so I’m not just building something that works, but something that actually solves the user’s problem.
+ 
+How do I approach designing software?
+I approach software design with a plan first, not just jumping straight into coding. I break the problem down into smaller components and focus on building clean, organized, and maintainable code. I also think ahead about how the system might grow or need to change. Testing is part of my design process, not an afterthought, so I can make sure each piece works before moving forward.
+
