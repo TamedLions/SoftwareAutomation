@@ -1,8 +1,8 @@
 # CS 320 Module 8 – Portfolio Artifact
-
+A showcase of my work in software testing and automation using Java and JUnit.
+ 
 ## Overview  
-This project demonstrates my work in software testing and automation. The purpose of this artifact is to showcase my ability to create and execute unit tests that ensure software functionality and reliability. The project includes test cases designed to validate contact services and identify potential issues in the system.
-
+In this project, I worked on developing and testing a contact service application. The goal was to create and execute unit tests that ensure the system functions correctly and handles potential errors. This artifact reflects my ability to apply software testing techniques in a structured and practical way.
 ---
 
 ## Skills Demonstrated  
@@ -19,7 +19,7 @@ Throughout this project, I learned how important testing is in the software deve
 
 One challenge I faced was making sure my tests were meaningful and not just written to meet requirements. I overcame this by reviewing my code more carefully and considering real-world scenarios where the system could fail. This helped me improve both my testing approach and overall code quality.  
 
-If I were to improve this project, I would expand my test coverage and include more complex scenarios. This would make the application more reliable and better reflect real-world software development practices.
+If I were to improve this project, I would expand my test coverage and include more complex scenarios. This would make the application more reliable and better reflect real-world software development practices.These skills are directly applicable in real-world software development, where ensuring reliability and catching issues early is critical to delivering high-quality applications.
 
 ---
 
